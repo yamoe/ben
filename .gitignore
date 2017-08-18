@@ -240,3 +240,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# 3rd
+3rd/ffmpeg/
+3rd/opencv/

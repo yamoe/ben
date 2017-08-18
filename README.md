@@ -11,4 +11,5 @@
   * 3rd/opencv
 * visual stduio 2017 c++
 * change video_name, output_filename in main.cpp
+* make output_filename folder
 
