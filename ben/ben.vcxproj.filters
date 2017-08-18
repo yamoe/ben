@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="include\ben\webcam.h">
+      <Filter>include\ben</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ben\devices.h">
+      <Filter>include\ben</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ben\ffmpeg.h">
+      <Filter>include\ben</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ben\opencv.h">
+      <Filter>include\ben</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ben\viewer.h">
+      <Filter>include\ben</Filter>
+    </ClInclude>
+    <ClInclude Include="example_show_webcam.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{3ae9b02e-ef9d-4df1-bda5-faf9cd9bbe3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\ben">
+      <UniqueIdentifier>{2b93d467-85ed-49d3-87c9-002479ffbaae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
