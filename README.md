@@ -4,7 +4,6 @@
   * capture webcam and save file (using ffmpeg 3.3.3)
   * view webcam (using opencv 3.3.0)
 
----
 
 ## compile
 * extract 3rd/3rd.7z
